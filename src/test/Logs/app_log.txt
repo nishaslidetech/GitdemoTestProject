@@ -1,0 +1,10 @@
+INFO    2022-04-28 16:23:19,538 [main] testCases.BaseClass  - Config file loaded !!!
+INFO    2022-04-28 16:23:19,539 [main] testCases.BaseClass  - OR file loaded !!!
+INFO    2022-04-28 16:23:28,147 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:23:40,988 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:23:53,625 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:24:06,683 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:24:18,974 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:24:31,155 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:24:49,015 [main] testCases.BaseClass  - onePager is successfully clicked
+INFO    2022-04-28 16:25:01,493 [main] testCases.BaseClass  - onePager is successfully clicked
